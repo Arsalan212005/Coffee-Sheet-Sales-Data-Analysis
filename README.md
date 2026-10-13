@@ -6,7 +6,7 @@ An end-to-end data analytics project transforming raw, multi-file coffee sales C
 ---
 
 ## 🖼️ Dashboard Preview
-![Coffee Sales Dashboard Preview](coffee sales analysis dashboard1.jpg)
+![Coffee Sales Dashboard Preview](Coffee_Sales_Analysis_Dashboard.jpg)
 
 ---
 
