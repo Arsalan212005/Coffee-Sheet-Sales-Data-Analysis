@@ -14,7 +14,7 @@ An end-to-end data analytics project transforming raw, multi-file coffee sales C
 1. **Raw Data Ingestion:**
    - Ingested two raw, uncleaned coffee sales CSV files (`Raw_Messy_Dataset1.csv`, `Raw_Messy_Dataset2.csv`).
 2. **Data Cleaning & Transformation (Excel):**
-   - Handled null values, formatted timestamps into standardized date formats, and merged dataset structures into `Cleaned_Coffee_Dataset.xlsx` and `Cleaned_Coffee_Dataset.csv`.
+   - Handled null values, formatted timestamps into standardized date formats, and merged dataset structures into `Cleaned_Coffee_Dataset.xlsx` and `Cleaned_Coffee_Dataset.csv`(both csv and xlsx file have same content).
 3. **Exploratory Data Analysis (PostgreSQL / SQL):**
    - Wrote SQL queries (`Coffee_Sheet_Query.sql`) using `GROUP BY`, aggregation functions, and subqueries to calculate key business metrics (Total Revenue, top-selling coffee items, and transaction type breakdown).
 4. **Data Visualization (Power BI):**
