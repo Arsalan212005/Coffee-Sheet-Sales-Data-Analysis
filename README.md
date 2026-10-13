@@ -34,6 +34,5 @@ An end-to-end data analytics project transforming raw, multi-file coffee sales C
 - `Raw_Messy_Dataset1.csv` & `Raw_Messy_Dataset2.csv` : Original uncleaned Kaggle datasets
 - `Cleaned_Coffee_Dataset.csv` & `.xlsx` : Processed and transformed dataset files
 - `Coffee_Sheet_Query.sql` : SQL analysis and aggregation queries
-- 
 - `Coffee_Sales_Analysis_Dashboard.pbix` : Interactive Power BI dashboard file
-- `coffee sales analysis dashboard1.jpg` : Dashboard screenshot preview
+- `Coffee_Sales_Analysis_Dashboard.jpg` : Dashboard screenshot preview
